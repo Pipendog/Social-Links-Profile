@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Spcial Link Profile](https://pipendog.github.io/Social-Links-Profile/)
+- Live Site URL: [Social Link Profile](https://pipendog.github.io/Social-Links-Profile/)
 
 
 ## My process
