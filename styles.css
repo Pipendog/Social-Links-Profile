@@ -16,7 +16,7 @@ body {
   background-color: hsl(0, 0%, 8%);
   flex-direction: column;
   align-items: center;
-  min-width: 20%;
+  min-width: 15%;
   border-radius: 2%;
   padding: 2%;
 }
