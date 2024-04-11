@@ -1,0 +1,88 @@
+body {
+  display: flex;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  overflow: auto;
+}
+
+.container {
+ display: flex;
+  background-color: hsl(0, 0%, 8%);
+  flex-direction: column;
+  align-items: center;
+  min-width: 20%;
+  border-radius: 2%;
+  padding: 2%;
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+  max-height: auto;
+  
+}
+
+.name {
+  line-height: 0.4;
+  font-weight: bold;
+}
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 1.8rem;
+}
+
+.location {
+  color: hsl(75, 94%, 57%);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.7);
+  font-size: 0.8rem;
+  text-align: center;
+  padding-bottom: 4%;
+}
+
+button {
+  border: none;
+  font-weight: bold;
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  padding: 5% 10%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin: 2% auto;
+  cursor: pointer;
+  min-width: 100%;
+  border-radius: 10px;
+  
+}
+
+button:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
+
+/*Fonts*/
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400, 600, 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+@media only screen and (max-width: 475px) {
+  width: 80%;
+  overflow: auto;
+}
