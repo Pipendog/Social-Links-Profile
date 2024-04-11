@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-[](./screencapture-pipendog-github-io-Social-Links-Profile-2024-04-11-19_06_01.png)
+!["./Simple Omellete Recipe.png"](https://github.com/Pipendog/Frontend-mentor-Recipe-Page/blob/29187c838474aeff47c30ffd34d6a1c932ecc0ad/Simple%20Omelette%20Recipe.png)
 
 ### Links
 
