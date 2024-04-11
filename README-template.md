@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-[!](./screencapture-pipendog-github-io-Social-Links-Profile-2024-04-11-19_06_01.png)
+(./screencapture-pipendog-github-io-Social-Links-Profile-2024-04-11-19_06_01.png)
 
 ### Links
 
